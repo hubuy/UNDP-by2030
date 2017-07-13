@@ -1550,7 +1550,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     margin-right: 0.5625rem; }
   .mbr-subscribe-dark {
     background: none;
-    border-color: rgba(255, 255, 255, 0.2); }
+    border-color: rgba(255, 255, 255); }
     .mbr-subscribe-dark .form-control {
       color: #fff; }
 
